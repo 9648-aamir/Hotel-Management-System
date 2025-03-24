@@ -59,7 +59,7 @@
 				<div class="d-flex align-items-center" style="gap:5px">
 					 <a
 						data-mdb-ripple-init class="btn btn-dark px-3"
-						href="https://github.com/Mohammed-Masood-Ansari" role="button"> <i
+						href="https://github.com/9648-aamir?tab=repositories" role="button"> <i
 						class="fab fa-github"></i></a>
 				</div>
 			</div>
